@@ -45,5 +45,7 @@
     "eslint": "^7.0.0",
     "eslint-loader": "^4.0.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
